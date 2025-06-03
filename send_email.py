@@ -14,12 +14,15 @@ def send_email(
     sender_email=os.getenv("SENDER_EMAIL")
     app_password=os.getenv("APP_PASSWORD")
 
+<<<<<<< HEAD
     # Attempting logs
     print("Attempting to send email...")
     print(f"Using sender email: {sender_email}")
     print(f"Using receiver email: {receiver_email}")
 
 
+=======
+>>>>>>> 9a9f6c9cada540d217f5219acac42be22f4872e4
     try:
         # Create email message
         message = MIMEMultipart()
