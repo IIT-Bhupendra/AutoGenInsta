@@ -1,0 +1,53 @@
+Here’s a breakdown of the idea into a 5-slide carousel, each with a title, visual layout description, and a text-to-image generation prompt:
+
+---
+
+**Slide 1: Why Tech-Focused Mutual Funds?**  
+**Visual Layout:**  
+A modern, clean infographic showing a rising graph with icons of AI, cloud computing, and digital devices in the background. A salaried professional stands confidently beside the graph.  
+**Image Prompt:**  
+A professional Indian office worker standing next to a rising graph with icons of AI, cloud computing, and digital devices, set in a bright, modern office environment.
+
+---
+
+**Slide 2: Growth Drivers in India’s Tech Sector**  
+**Visual Layout:**  
+A dynamic collage featuring key growth drivers: AI, automation, digital India initiatives, and e-commerce. The collage is framed by digital circuit patterns.  
+**Image Prompt:**  
+A vibrant collage of AI, automation, digital India logos, and e-commerce icons, surrounded by glowing digital circuit patterns on a white background.
+
+---
+
+**Slide 3: Benefits for Salaried Investors**  
+**Visual Layout:**  
+A split-screen: one side shows a hand holding a diversified portfolio, the other side displays a busy salaried professional relaxing.  
+**Image Prompt:**  
+Split-screen image: left side shows a hand holding a diversified investment portfolio, right side shows a relaxed salaried professional in a modern home, both in a clean, minimalist style.
+
+---
+
+**Slide 4: How to Start Investing Easily**  
+**Visual Layout:**  
+A smartphone screen displaying popular investment apps (Zerodha, Groww, Paytm Money) with a finger tapping “Invest Now.”  
+**Image Prompt:**  
+A smartphone screen showing Zerodha, Groww, and Paytm Money apps with a finger pressing “Invest Now,” set on a desk with a coffee cup and notebook.
+
+---
+
+**Slide 5: Long-Term Wealth Building**  
+**Visual Layout:**  
+A futuristic city skyline with digital charts and graphs overlaying the buildings, symbolizing growth and technology.  
+**Image Prompt:**  
+A futuristic city skyline with glowing digital charts and graphs overlaying skyscrapers, in a vibrant, high-tech style.
+
+---
+
+**Optional Slide 6: Regular Monitoring & Rebalancing**  
+**Visual Layout:**  
+A dashboard with portfolio analytics, a calendar, and a “Rebalance Now” button, with a professional reviewing data on a laptop.  
+**Image Prompt:**  
+A sleek dashboard showing portfolio analytics and a calendar, with a professional reviewing data on a laptop in a modern office setting.
+
+---
+
+This carousel structure makes the concept clear, visually engaging, and actionable for salaried individuals in India[1][2][3].
