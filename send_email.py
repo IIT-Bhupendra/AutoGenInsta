@@ -39,5 +39,3 @@ def send_email(
     except Exception as e:
         print(f"❌ Failed to send email: {e}")
         return False
-
-send_email()
